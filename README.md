@@ -8,3 +8,4 @@ Code sample trying out [Vogen](https://github.com/SteveDunn/Vogen) for Value Obj
 
 `Level2` validates objects.
 
+I am interested in validation, for when all customer ids are strings, but not many strings are valid customer ids.
