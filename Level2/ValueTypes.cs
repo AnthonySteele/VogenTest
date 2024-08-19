@@ -46,7 +46,7 @@ public readonly partial struct OrderId
             return Validation.Invalid("Order IDs must only be hex");
         }
 
-        if (input.Length > 20)
+        if (input.Length > 30)
         {
             return Validation.Invalid("Order ID too long");
         }

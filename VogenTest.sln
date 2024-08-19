@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VogenTest2", "Level2\VogenT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VogenTest3", "Level3\VogenTest3.csproj", "{D0835043-D67E-4EDC-86DD-4F8605C5C1C7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VogenTest4", "Level4\VogenTest4.csproj", "{051F5E22-DB4C-499B-8DCB-3F43AD168CEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D0835043-D67E-4EDC-86DD-4F8605C5C1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0835043-D67E-4EDC-86DD-4F8605C5C1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0835043-D67E-4EDC-86DD-4F8605C5C1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051F5E22-DB4C-499B-8DCB-3F43AD168CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051F5E22-DB4C-499B-8DCB-3F43AD168CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051F5E22-DB4C-499B-8DCB-3F43AD168CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051F5E22-DB4C-499B-8DCB-3F43AD168CEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
